@@ -1,8 +1,8 @@
 import './App.css';
-import Profile from './components/Profile';
+import Counter from './components/Conter';
 
 function App() {
-  return <Profile username="Ben" name="BenName" />;
+  return <Counter />;
 }
 
 export default App;
