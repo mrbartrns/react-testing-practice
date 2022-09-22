@@ -1,8 +1,8 @@
 import './App.css';
-import Counter from './components/Conter';
+import DelayedToggle from './components/DelayedToggle';
 
 function App() {
-  return <Counter />;
+  return <DelayedToggle />;
 }
 
 export default App;
